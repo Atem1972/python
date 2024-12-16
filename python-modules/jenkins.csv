@@ -1,0 +1,3 @@
+USER_NAME,PHONE_NUMBER,INSTANCE_TYPE,REGION
+Alice,1234567890,t2.micro,us-east-1
+Bob,9876543210,t2.medium,us-west-2
